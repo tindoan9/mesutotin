@@ -1,4 +1,3 @@
-<img alt="coding" width="1100" src="https://i.pinimg.com/564x/3f/f3/38/3ff338fded7cab6c231606b35ebe18ab.jpg"/>
 <h1 align="center">Hi 👋, I'm Tín</h1>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
 
